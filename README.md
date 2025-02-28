@@ -4,7 +4,7 @@
 
 This project updates your Discord status with the media you're currently watching on **VLC Media Player**. It uses Discord's Rich Presence feature to display the media name and status.
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/tVtwJx74L9Y" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/tVtwJx74L9Y/0.jpg)](https://www.youtube.com/embed/tVtwJx74L9Y)
 
 ---
 
