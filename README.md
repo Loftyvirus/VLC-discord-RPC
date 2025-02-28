@@ -27,8 +27,8 @@ This project updates your Discord status with the media you're currently watchin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/vlc-rich-presence.git
-   cd vlc-rich-presence
+   git clone https://github.com/Loftyvirus/VLC-discord-RPC
+   cd vlc-discord-rpc
    ```
 
 2. **Install dependencies:**
