@@ -6,5 +6,5 @@ def load_config():
     load_dotenv(dotenv_path=env_path)
 
     client_id = os.getenv("CLIENT_ID")
-    print(f"Loaded CLIENT_ID: {client_id}")
+    # print(f"Loaded CLIENT_ID: {client_id}")
     return client_id
