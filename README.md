@@ -28,17 +28,20 @@ This project updates your Discord status with the media you're currently watchin
 ### Steps
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/Loftyvirus/VLC-discord-RPC
    cd vlc-discord-rpc
    ```
 
 2. **Install dependencies:**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 3. **Set up your `.env` file:**
+
    - Copy the example `.env` file:
      ```bash
      cp config/.env.example config/.env
@@ -74,6 +77,7 @@ To stop the application, press `Ctrl+C`.
 ### Supported Media Formats
 
 The application supports the following media formats:
+
 - Video: `.mkv`, `.mp4`, `.avi`, `.mov`
 - Audio: `.mp3`, `.flac`, `.wav`
 
@@ -89,7 +93,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Open a pull request.
 
-
 ---
 
 ## Acknowledgments
@@ -97,4 +100,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 - [pypresence](https://github.com/qwertyquerty/pypresence) for the Discord Rich Presence library.
 - [psutil](https://github.com/giampaolo/psutil) for process monitoring.
 - [python-dotenv](https://github.com/theskumar/python-dotenv) for environment variable management.
-
